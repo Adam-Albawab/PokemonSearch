@@ -1,6 +1,6 @@
 # Summary
 
-This is a simple pokemon search application that fetches data from the open source pokeapi and displays it in a nice format. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple pokemon search application that I made for fun and to learn React it fetches data from the open source pokeapi and displays it in a nice format. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
