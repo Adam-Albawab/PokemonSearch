@@ -2,6 +2,10 @@
 
 This is a simple pokemon search application that I made for fun and to learn React it fetches data from the open source pokeapi and displays it in a nice format. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Appearance 
+
+![What the UI looks like](https://user-images.githubusercontent.com/92908606/223869978-56688c3f-d13e-4d53-9090-7cf4550715c6.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
